@@ -396,3 +396,11 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Oracle DB Gitignore (https://github.com/oracle-samples/oracle-db-examples/blob/main/.gitignore)
+.DS_Store
+*.class
+*.jar 
+classes/
+built/
+.*
