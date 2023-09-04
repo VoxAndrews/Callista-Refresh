@@ -404,3 +404,5 @@ FodyWeavers.xsd
 classes/
 built/
 .*
+
+*.xlsx
